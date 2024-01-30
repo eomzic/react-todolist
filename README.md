@@ -1,4 +1,4 @@
-# 간단한 투두리스트 만들기 제작
+# 간단한 ToDo-List 만들기 제작
 >바로가기 https://eomzic.github.io/react-todolist
 
 ![메인페이지](./01.PNG)
